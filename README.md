@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MONU8OO8
+- <h1>👋 Hi, I’m @MONU8OO8</h1>
 
 <!---
 MONU8OO8/MONU8OO8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 👀: I'm Interested in Development.
 
 - :zap: I solve problems on Leetcode, GeeksforGeeks and Codechef, Learn New Technology.
-- - 🍒: I'm currently learning Backend.
+- 🍒: I'm currently learning Backend.
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-https://www.linkedin.com/in/monu-kumar-3364a5209/]) -->
 - :mailbox: How to reach me: monu270800@gmail.com
