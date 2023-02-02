@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @MONU8OO8</h1>
+- <h1>👋 Hi, I’m Monu Kumar</h1>
 
 <!---
 MONU8OO8/MONU8OO8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
