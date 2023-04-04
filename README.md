@@ -40,14 +40,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ## 🔗 Github Analysis
-<!-- <p>
-<a href="https://github.com/Kali-Decoder">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kali-Decoder&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kali-Decoder&layout=compact&langs_count=8&theme=blue-green"/>
+<p>
+<a href="https://github.com/MONU8OO8">
+ ![Monu's GitHub stats] <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MONU8OO8&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+ ![Top Langs] <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MONU8OO8&layout=compact&langs_count=8&theme=blue-green"/>
 </a>
-</p> -->
-[![Monu's GitHub stats]<ime height="180em" src="https://github-readme-stats.vercel.app/api?username=MONU8OO8&show_icons=true&theme=radical](https://github.com/MONU8OO8/github-readme-stats)"/>
-[![Top Langs]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONU8OO8&theme=radical](https://github.com/MONU8OO8/github-readme-stats)"/>
+</p>
+<!-- [![Monu's GitHub stats]<ime height="180em" src="https://github-readme-stats.vercel.app/api?username=MONU8OO8&show_icons=true&theme=radical](https://github.com/MONU8OO8/github-readme-stats)"/>
+[![Top Langs]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONU8OO8&theme=radical](https://github.com/MONU8OO8/github-readme-stats)"/> -->
 ---
 
 ### :hammer_and_wrench: Leetcode Badges :
