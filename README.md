@@ -41,7 +41,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ## 🔗 Github Analysis
 ![Monu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MONU8OO8&show_icons=true&theme=radical)
+<a height=180em>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MONU8OO8&theme=radical)](https://github.com/MONU8OO8/github-readme-stats)
+  </a>
 ---
 
 ### :hammer_and_wrench: Leetcode Badges :
