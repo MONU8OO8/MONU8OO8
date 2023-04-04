@@ -1,4 +1,8 @@
 - <h1>👋 Hi, I’m Monu Kumar</h1>
+- <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=550&lines=This+%2C+Side+Neeraj+Choubisa+;  Full+Stack+Web+Blockchain+Developer" alt="Typing SVG" /></a>
+  
+</p>
 
 <!---
 MONU8OO8/MONU8OO8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
