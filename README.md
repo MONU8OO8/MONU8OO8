@@ -39,15 +39,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://vercel.com/lucifer8u8-gmailcom/monu-portfolio)
 
 ---
-## 🔗 Github Analysis
+## 🔗My Github Stats
 <p>
 <a href="https://github.com/MONU8OO8">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MONU8OO8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MONU8OO8&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-<!-- [![Monu's GitHub stats]<ime height="180em" src="https://github-readme-stats.vercel.app/api?username=MONU8OO8&show_icons=true&theme=radical](https://github.com/MONU8OO8/github-readme-stats)"/>
-[![Top Langs]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONU8OO8&theme=radical](https://github.com/MONU8OO8/github-readme-stats)"/> -->
 ---
 
 ### :hammer_and_wrench: Leetcode Badges :
