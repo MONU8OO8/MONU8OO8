@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: I solve problems on Leetcode, GeeksforGeeks and Codechef, Learn New Technology.
 - 🍒: I'm currently learning Backend.
 
-<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-https://www.linkedin.com/in/monu-kumar-3364a5209/]) -->
+
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:monu270800@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://monu-portfolio.vercel.app/)
 
@@ -49,11 +49,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Leetcode Badges :
-  <img src="https://leetcode.com/static/images/badges/2022/lg/2022-annual-100.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://leetcode.com/static/images/badges/dcc-2022-12.png" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://leetcode.com/static/images/badges/dcc-2022-11.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://leetcode.com/static/images/badges/dcc-2022-7.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="50" height="50" alt="leetcode"/>&nbsp;
+  <img src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" width="50" height="50" alt="leetcode"/>nbsp;
+  <img src="https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" width="50" height="50" alt="leetcode"/>&nbsp;
+  <img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" width="50" height="50" alt="leetcode"/>&nbsp;
+  <img src="https://leetcode.com/static/images/badges/2022/gif/2022-11.gif" width="50" height="50" alt="leetcode"/>&nbsp;
+  <img src="	https://leetcode.com/static/images/badges/2022/gif/2022-07.gif" width="50" height="50" alt="leetcode"/>&nbsp;
+     
 
 ---
 
