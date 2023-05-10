@@ -51,6 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Leetcode Badges :
   <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="50" height="50" alt="leetcode"/>&nbsp;
+  <img src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="50" height="50" alt="leetcode"/>&nbsp;
   <img src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="50" height="50" alt="leetcode"/>&nbsp;
   <img src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" width="50" height="50" alt="leetcode"/>&nbsp;
   <img src="https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" width="50" height="50" alt="leetcode"/>&nbsp;
